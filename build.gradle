@@ -21,7 +21,7 @@ allprojects {
         
     }
 }
-rootProject.extensions.add("bd_map",Type.isAPP.name())
+rootProject.extensions.add("bd_map",Type.isModule.name())
 enum Type{
     isAPP,
     isModule,
