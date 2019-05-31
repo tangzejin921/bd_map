@@ -41,7 +41,7 @@
         android:label="@string/app_name">
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="@string/bd_map_apiKey" />
+            android:value="@string/bd_key" />
         <activity
             android:name="com.tzj.bd.map.ModuleActivity">
             <intent-filter>
